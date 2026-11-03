@@ -78,12 +78,10 @@ All three pages have slicers for **sex**, **smoker** and **region**, and a navig
 health-insurance-dashboard/
 ├── README.md
 ├── Health_Insurance_Dashboard.pbix
-├── data/
-│   └── insurance.csv
-└── images/
-    ├── page1_overview.png
-    ├── page2_cost_analysis.png
-    └── page3_cost_drivers.png
+├── insurance.csv
+├── page1_overview.png
+├── page2_cost_analysis.png
+└── page3_cost_drivers.png
 ```
 
 ## Author
