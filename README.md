@@ -8,7 +8,7 @@ An interactive three-page Power BI dashboard that explores what is associated wi
 
 | Overview | Cost Analysis | Cost Drivers |
 |---|---|---|
-| ![Overview](images/page1_overview.png) | ![Cost Analysis](images/page2_cost_analysis.png) | ![Cost Drivers](images/page3_cost_drivers.png) |
+| ![Overview](page1_overview.png) | ![Cost Analysis](page2_cost_analysis.png) | ![Cost Drivers](page3_cost_drivers.png) |
 
 ## Dataset
 
